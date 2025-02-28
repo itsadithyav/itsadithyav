@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Adithya V</h1>
 <h3 align="center">💻 A Data Science Enthusiast from Bengaluru</h3>
 
-- 🔭 I’m currently working on **Chatbot for E-Governance** to enhance public service accessibility.
+- 🔭 I’m currently working on **AI Powered Task Optimizer** to enchance employee moods in workplaces.
 - 👨‍💻 All of my projects are available at [Github Repo](https://github.com/itsadithyav?tab=repositories).
 - 📫 How to reach me: **adith348@gmail.com**.
 - 📄 Know about my experience: [Resume](https://github.com/itsadithyav/itsadithyav/blob/main/resume.pdf).
