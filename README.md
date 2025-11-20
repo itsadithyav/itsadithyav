@@ -1,94 +1,97 @@
 <div align="center">
-  <h1>Hi there, I'm Adithya V! 👋</h1>
-  <h3>AI Engineer | Data Scientist | Full-Stack Developer</h3>
+ 
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Adithya+V.;I+Built+AI+That+Reads+Emotions.;I+Break+Systems+to+Make+Them+Stronger.;State-Level+Fighter+%2B+Code+Architect." alt="Typing SVG" />
 
+  <h3>🤖 AI Engineer | 🧠 Data Scientist | 🥋 Bug Hunter</h3>
+  
   <p>
-    <em>Building intelligent systems that bridge the gap between experimental AI and production stability.</em>
+     <em>"I don't just train models; I train discipline."</em>
   </p>
 
-  <a href="https://linkedin.com/in/vadithya">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-blue?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:adith348@gmail.com">
-    <img src="https://img.shields.io/badge/Email-Contact_Me-red?style=for-the-badge&logo=gmail" alt="Email"/>
-  </a>
+  <p>
+    <a href="https://linkedin.com/in/vadithya">
+      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
+    </a>
+    <a href="mailto:adith348@gmail.com">
+      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
+    </a>
+    <a href="https://github.com/itsadithyav">
+      <img src="https://img.shields.io/badge/Check_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
+    </a>
+  </p>
 </div>
 
 ---
 
-## 🚀 About Me
+## ⚡ The "Character" Sheet
 
-I am a **Computer Science Engineer (Class of 2025)** specializing in **Generative AI**, **Computer Vision**, and **System Reliability**.
+> I operate at the intersection of **Hardware**, **Software**, and **Human Behavior**. Whether it's stress-testing 8K TVs at **LG Soft** or fine-tuning LLMs to outperform industry giants, I build systems that are robust, intelligent, and user-centric.
 
-Currently, I operate at the intersection of **Data Science** and **QA Engineering**. My background spans from fine-tuning LLMs to outperform industry benchmarks to stress-testing consumer electronics for global markets.
-
-* 🔭 **I’m currently working on:** Multimodal Emotion Analysis systems using Vision + Audio.
-* 💼 **Experience:** Ex-**LG Soft India** (Manual Test Engineer) & **Zidio Development** (Data Science Intern).
-* 🔬 **Research:** Published author on Generative AI architectures and Conversational Agents.
-* ⚡ **Fun fact:** I'm a State Level Silver Medalist in Taekwondo (I squash bugs and kick high).
-
----
-
-## 🛠️ Tech Stack
-
-### **Artificial Intelligence & Data**
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white)
-![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white)
-![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white)
-![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white)
-![Llama](https://img.shields.io/badge/Llama_3.1-0435C0?style=flat-square&logo=meta&logoColor=white)
-
-### **Development & Engineering**
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white)
-![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?style=flat-square&logo=streamlit&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### **Hardware & IoT**
-![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white)
-![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white)
-![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white)
-![WebOS](https://img.shields.io/badge/WebOS-A50034?style=flat-square&logo=lg&logoColor=white)
+| **Class** | **Special Ability** | **Signature Move** |
+| :--- | :--- | :--- |
+| **Data Scientist** | `Pattern Recognition` | Detecting human emotions using Vision + Audio streams. |
+| **QA Engineer** | `System Stability` | Crashing WebOS apps so users don't have to. |
+| **Fighter** | `Agility` | Silver Medalist in State-Level Taekwondo. |
 
 ---
 
-## 🏆 Featured Projects
-
-### 🤖 **[MitraBot: Conversational AI for Government Schemes](https://github.com/itsadithyav)**
-*A Generative AI solution fine-tuned for complex Indian government service queries.*
-* **The Tech:** Python, Llama 3.1, Hugging Face, Streamlit.
-* **The Win:** Benchmarked to **outperform GPT-4 and Gemini 1.5** in specific context-retention and reasoning tasks regarding local schemes.
-* **Key Feature:** Implemented advanced Named Entity Recognition (NER) for multi-turn dialogue handling.
-
-### 👁️ **[EmotiSense: Multimodal Employee Emotion Analysis](https://github.com/itsadithyav)**
-*An end-to-end system designed to monitor workplace well-being while preserving privacy.*
-* **The Tech:** TensorFlow (CNN), Librosa (Audio), OpenCV, FastAPI.
-* **The Win:** Achieved **94% classification accuracy** by combining facial expression data with speech tonality analysis.
-* **Key Feature:** Real-time privacy masking to ensure GDPR compliance.
-
-### 🛡️ **[Smart Router & Network Guardian](https://github.com/itsadithyav)**
-*A Raspberry Pi-based network security solution.*
-* **The Tech:** Pi-hole, Grafana, Prometheus, OpenVPN, Linux.
-* **The Win:** Successfully blocked **30% of malicious traffic** and ads network-wide via DNS sinkholing.
-
----
-
-## 📊 GitHub Stats
+## 🛠️ The Arsenal (Tech Stack)
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsadithyav&show_icons=true&theme=tokyonight&hide_border=true" alt="Adithya's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadithyav&layout=compact&theme=tokyonight&hide_border=true" alt="Top Languages" />
+
+### **The Brain (AI & Data)**
+<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,scikitlearn,pandas,numpy" />
+<br>
+<i>Building Generative AI with <b>Llama 3.1</b> & <b>LangChain</b></i>
+
+### **The Backbone (Dev & Ops)**
+<img src="https://skillicons.dev/icons?i=fastapi,docker,git,linux,mysql,java,c" />
+<br>
+<i>Deploying with <b>Docker</b> & Monitoring with <b>Grafana</b></i>
+
+### **The Hands (Hardware & IoT)**
+<img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
+<br>
+<i>Experience with <b>WebOS</b> & Embedded C</i>
+
+</div>
+
+---
+
+## 🚀 Mission Log (Featured Projects)
+
+### 🧠 **[Project: MitraBot](https://github.com/itsadithyav)**
+> *The David vs. Goliath of Government AI.*
+* **The Challenge:** General LLMs hallucinate on niche Indian government schemes.
+* **The Fix:** Fine-tuned **Llama 3.1** with specialized Named Entity Recognition (NER).
+* **The Flex:** Benchmarked to **outperform GPT-4 and Gemini 1.5** on specific context-retention tasks.
+* **Stack:** Python, Hugging Face, Streamlit.
+
+### 👁️ **[Project: EmotiSense](https://github.com/itsadithyav)**
+> *Teaching machines to read the room.*
+* **The Build:** A multimodal system that doesn't just look at your face; it listens to your tone.
+* **The Impact:** **94% Accuracy** in detecting workplace stress, with privacy-first masking.
+* **Stack:** TensorFlow (CNN), Librosa (Audio Analysis), OpenCV.
+
+### 🛡️ **[Project: Network Guardian](https://github.com/itsadithyav)**
+> *My home network is Fort Knox.*
+* **The Build:** A Raspberry Pi-based sinkhole for malicious traffic.
+* **The Impact:** Blocked **30%** of incoming ad/tracker traffic network-wide.
+* **Stack:** Pi-hole, Grafana, Prometheus, OpenVPN.
+
+---
+
+## 📈 The Data (GitHub Stats)
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=itsadithyav&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Adithya's GitHub Stats" />
+  <br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadithyav&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
 </div>
 
 ---
 
 <div align="center">
-  <h3>Let's Connect!</h3>
-  <p>I am open to <b>Data Science</b> and <b>AI Engineering</b> roles starting July 2025.</p>
-  <a href="https://linkedin.com/in/vadithya">LinkedIn</a> • <a href="mailto:adith348@gmail.com">Email</a> • <a href="https://github.com/itsadithyav">GitHub</a>
+  <h3>"Code like an architect. Debug like a fighter."</h3>
+  <p>Open to opportunities in <b>Data Science</b> & <b>AI Engineering</b>.</p>
 </div>
