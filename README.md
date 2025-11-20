@@ -1,97 +1,90 @@
 <div align="center">
- 
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=30&duration=3000&pause=1000&color=36BCF7&center=true&vCenter=true&width=1000&lines=Hello%2C+I'm+Adithya+V.;I+Built+AI+That+Reads+Emotions.;I+Break+Systems+to+Make+Them+Stronger.;State-Level+Fighter+%2B+Code+Architect." alt="Typing SVG" />
-
-  <h3>🤖 AI Engineer | 🧠 Data Scientist | 🥋 Bug Hunter</h3>
+  <h1>Adithya V.</h1>
+  <p>
+    <strong>CS Student • AI Enthusiast • Builder</strong>
+  </p>
   
   <p>
-     <em>"I don't just train models; I train discipline."</em>
+    <a href="https://linkedin.com/in/vadithya"><img src="https://img.shields.io/badge/LinkedIn-Connect-grey?style=flat-square&logo=linkedin"></a>
+    <a href="https://github.com/itsadithyav"><img src="https://img.shields.io/badge/GitHub-Follow-black?style=flat-square&logo=github"></a>
+    <a href="mailto:adith348@gmail.com"><img src="https://img.shields.io/badge/Email-Contact-lightgrey?style=flat-square&logo=gmail"></a>
   </p>
 
   <p>
-    <a href="https://linkedin.com/in/vadithya">
-      <img src="https://img.shields.io/badge/Connect_on_LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>
-    </a>
-    <a href="mailto:adith348@gmail.com">
-      <img src="https://img.shields.io/badge/Email_Me-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/>
-    </a>
-    <a href="https://github.com/itsadithyav">
-      <img src="https://img.shields.io/badge/Check_My_Code-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
-    </a>
+    <code>📍 Bangalore, India</code> • <code>🎓 Class of 2025</code> • <code>🌱 Open to Learning</code>
   </p>
 </div>
 
+<br />
+
+> **👋 About Me:**
+> Hi! I am a final-year Computer Science student who loves experimenting with **Data** and **Code**. 
+>
+> My journey so far has taken me from testing smart TV apps at **LG Soft** to building helpful AI chatbots for my college projects. I am still learning the ropes of **Generative AI** and **System Engineering**, and I'm looking for opportunities to grow, contribute, and work on real-world problems.
+
 ---
 
-## ⚡ The "Character" Sheet
+### 📂 **My Learning Journey (Tech Stack)**
+*Click the toggles to see what I've been working with.*
 
-> I operate at the intersection of **Hardware**, **Software**, and **Human Behavior**. Whether it's stress-testing 8K TVs at **LG Soft** or fine-tuning LLMs to outperform industry giants, I build systems that are robust, intelligent, and user-centric.
+<details>
+<summary><strong>✨ AI & Data Science (Interests)</strong></summary>
+<br />
+  
+| **Focus Area** | **Tools I Use** |
+| :--- | :--- |
+| **Generative AI** | `Llama 3.1` `LangChain` `Hugging Face` |
+| **Computer Vision** | `TensorFlow` `OpenCV` `Facial Recognition` |
+| **Data** | `Pandas` `NumPy` `SQL` |
+| **Audio** | `Librosa` `Speech Processing` |
 
-| **Class** | **Special Ability** | **Signature Move** |
+</details>
+
+<details>
+<summary><strong>🛠️ Development & Tools</strong></summary>
+<br />
+
+| **Focus Area** | **Tools I Use** |
+| :--- | :--- |
+| **Backend** | `Python` `FastAPI` `Java` `C` |
+| **DevOps Basics** | `Docker` `Git` `Linux` `Bash` |
+| **Hardware Fun** | `Raspberry Pi` `Arduino` `WebOS` |
+| **Monitoring** | `Grafana` `Prometheus` |
+
+</details>
+
+---
+
+### 🧠 **Project Highlights**
+
+| **Project** | **What I Built** | **Key Takeaway** |
 | :--- | :--- | :--- |
-| **Data Scientist** | `Pattern Recognition` | Detecting human emotions using Vision + Audio streams. |
-| **QA Engineer** | `System Stability` | Crashing WebOS apps so users don't have to. |
-| **Fighter** | `Agility` | Silver Medalist in State-Level Taekwondo. |
+| **MitraBot** | A chatbot that helps people understand government loan schemes. | Learned how to fine-tune **Llama 3.1** models to be more accurate than standard GPT-4 for local data. |
+| **EmotiSense** | An AI that detects emotions using camera and microphone input. | Achieved **94% accuracy** and learned how to handle privacy by masking user data. |
+| **NetGuardian** | A Raspberry Pi setup to block ads on my home Wi-Fi. | Learned about **Network Security**, VPNs, and visualizing traffic with Grafana. |
 
 ---
 
-## 🛠️ The Arsenal (Tech Stack)
+### 💼 **Internship Experience**
+
+#### **2025 | LG Soft India (Intern)**
+* **Role:** Manual Test Engineer
+* **What I did:** I helped test the **WebOS** operating system on new 4K TVs.
+* **Key Win:** I found some crashing bugs in the Netflix and Chrome apps before they were released!
+
+#### **2025 | Zidio Development (Intern)**
+* **Role:** Data Science Intern
+* **What I did:** Worked on an employee emotion analysis system.
+* **Key Win:** Got hands-on experience connecting Computer Vision models to a real backend.
+
+---
+
+### 🏆 **Outside of Code**
+* 🥈 **Sports:** Silver Medalist in State Level Taekwondo. (Teaches me discipline!)
+* 📚 **Writing:** I've co-authored research papers on **Conversational AI**.
+
+<br />
 
 <div align="center">
-
-### **The Brain (AI & Data)**
-<img src="https://skillicons.dev/icons?i=python,tensorflow,pytorch,opencv,scikitlearn,pandas,numpy" />
-<br>
-<i>Building Generative AI with <b>Llama 3.1</b> & <b>LangChain</b></i>
-
-### **The Backbone (Dev & Ops)**
-<img src="https://skillicons.dev/icons?i=fastapi,docker,git,linux,mysql,java,c" />
-<br>
-<i>Deploying with <b>Docker</b> & Monitoring with <b>Grafana</b></i>
-
-### **The Hands (Hardware & IoT)**
-<img src="https://skillicons.dev/icons?i=raspberrypi,arduino" />
-<br>
-<i>Experience with <b>WebOS</b> & Embedded C</i>
-
-</div>
-
----
-
-## 🚀 Mission Log (Featured Projects)
-
-### 🧠 **[Project: MitraBot](https://github.com/itsadithyav)**
-> *The David vs. Goliath of Government AI.*
-* **The Challenge:** General LLMs hallucinate on niche Indian government schemes.
-* **The Fix:** Fine-tuned **Llama 3.1** with specialized Named Entity Recognition (NER).
-* **The Flex:** Benchmarked to **outperform GPT-4 and Gemini 1.5** on specific context-retention tasks.
-* **Stack:** Python, Hugging Face, Streamlit.
-
-### 👁️ **[Project: EmotiSense](https://github.com/itsadithyav)**
-> *Teaching machines to read the room.*
-* **The Build:** A multimodal system that doesn't just look at your face; it listens to your tone.
-* **The Impact:** **94% Accuracy** in detecting workplace stress, with privacy-first masking.
-* **Stack:** TensorFlow (CNN), Librosa (Audio Analysis), OpenCV.
-
-### 🛡️ **[Project: Network Guardian](https://github.com/itsadithyav)**
-> *My home network is Fort Knox.*
-* **The Build:** A Raspberry Pi-based sinkhole for malicious traffic.
-* **The Impact:** Blocked **30%** of incoming ad/tracker traffic network-wide.
-* **Stack:** Pi-hole, Grafana, Prometheus, OpenVPN.
-
----
-
-## 📈 The Data (GitHub Stats)
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsadithyav&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117" alt="Adithya's GitHub Stats" />
-  <br>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=itsadithyav&layout=compact&theme=radical&hide_border=true&bg_color=0D1117" alt="Top Languages" />
-</div>
-
----
-
-<div align="center">
-  <h3>"Code like an architect. Debug like a fighter."</h3>
-  <p>Open to opportunities in <b>Data Science</b> & <b>AI Engineering</b>.</p>
+  <img src="https://github-readme-stats.vercel.app/api?username=itsadithyav&show_icons=true&theme=graywhite&hide_border=true" alt="Stats" />
 </div>
