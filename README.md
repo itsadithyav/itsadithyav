@@ -1,7 +1,7 @@
 <div align="center">
   <h1>Adithya V.</h1>
   <p>
-    <strong>CS Student • AI Enthusiast • Builder</strong>
+    <strong>Computer Science Engineer • AI Enthusiast • Builder</strong>
   </p>
   
   <p>
@@ -11,21 +11,21 @@
   </p>
 
   <p>
-    <code>📍 Bangalore, India</code> • <code>🎓 Class of 2025</code> • <code>🌱 Open to Learning</code>
+    <code>📍 Bangalore, India</code> • <code>🎓 Class of 2025 (Graduated)</code> • <code>🚀 Open to Work</code>
   </p>
 </div>
 
 <br />
 
 > **👋 About Me:**
-> Hi! I am a final-year Computer Science student who loves experimenting with **Data** and **Code**. 
+> Hi! I am a **Computer Science Engineer** passionate about experimenting with **Data** and **Code**. 
 >
-> My journey so far has taken me from testing smart TV apps at **LG Soft** to building helpful AI chatbots for my college projects. I am still learning the ropes of **Generative AI** and **System Engineering**, and I'm looking for opportunities to grow, contribute, and work on real-world problems.
+> My journey has taken me from testing smart TV apps at **LG Soft** to building helpful AI chatbots for real-world problems. Now that I have graduated, I am eager to apply my skills in **Generative AI** and **System Engineering** to professional roles. I am curious, adaptable, and ready to build.
 
 ---
 
 ### 📂 **My Learning Journey (Tech Stack)**
-*Click the toggles to see what I've been working with.*
+*Click the toggles to see my toolkit.*
 
 <details>
 <summary><strong>✨ AI & Data Science (Interests)</strong></summary>
@@ -33,10 +33,10 @@
   
 | **Focus Area** | **Tools I Use** |
 | :--- | :--- |
-| **Generative AI** | `Llama 3.1` `LangChain` `Hugging Face` |
-| **Computer Vision** | `TensorFlow` `OpenCV` `Facial Recognition` |
-| **Data** | `Pandas` `NumPy` `SQL` |
-| **Audio** | `Librosa` `Speech Processing` |
+| **Generative AI** | ![Llama](https://img.shields.io/badge/Llama_3.1-0435C0?style=flat-square&logo=meta&logoColor=white) ![HuggingFace](https://img.shields.io/badge/Hugging_Face-FFD21E?style=flat-square&logo=huggingface&logoColor=black) ![LangChain](https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=chainlink&logoColor=white) |
+| **Computer Vision** | ![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white) ![OpenCV](https://img.shields.io/badge/OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white) |
+| **Data Processing** | ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/NumPy-013243?style=flat-square&logo=numpy&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-4479A1?style=flat-square&logo=postgresql&logoColor=white) |
+| **Audio Analysis** | ![Librosa](https://img.shields.io/badge/Librosa-FFA000?style=flat-square&logo=python&logoColor=white) |
 
 </details>
 
@@ -46,10 +46,10 @@
 
 | **Focus Area** | **Tools I Use** |
 | :--- | :--- |
-| **Backend** | `Python` `FastAPI` `Java` `C` |
-| **DevOps Basics** | `Docker` `Git` `Linux` `Bash` |
-| **Hardware Fun** | `Raspberry Pi` `Arduino` `WebOS` |
-| **Monitoring** | `Grafana` `Prometheus` |
+| **Backend** | ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Java](https://img.shields.io/badge/Java-007396?style=flat-square&logo=openjdk&logoColor=white) ![C](https://img.shields.io/badge/C-00599C?style=flat-square&logo=c&logoColor=white) |
+| **DevOps Basics** | ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white) ![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white) ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black) |
+| **Hardware Fun** | ![Raspberry Pi](https://img.shields.io/badge/Raspberry%20Pi-A22846?style=flat-square&logo=raspberry-pi&logoColor=white) ![Arduino](https://img.shields.io/badge/Arduino-00979D?style=flat-square&logo=arduino&logoColor=white) ![WebOS](https://img.shields.io/badge/WebOS-A50034?style=flat-square&logo=lg&logoColor=white) |
+| **Monitoring** | ![Grafana](https://img.shields.io/badge/Grafana-F46800?style=flat-square&logo=grafana&logoColor=white) ![Prometheus](https://img.shields.io/badge/Prometheus-E6522C?style=flat-square&logo=prometheus&logoColor=white) |
 
 </details>
 
@@ -65,14 +65,14 @@
 
 ---
 
-### 💼 **Internship Experience**
+### 💼 **Experience**
 
-#### **2025 | LG Soft India (Intern)**
+#### **2025 | LG Soft India**
 * **Role:** Manual Test Engineer
-* **What I did:** I helped test the **WebOS** operating system on new 4K TVs.
+* **What I did:** Validated the **WebOS** operating system on new 4K TVs.
 * **Key Win:** I found some crashing bugs in the Netflix and Chrome apps before they were released!
 
-#### **2025 | Zidio Development (Intern)**
+#### **2025 | Zidio Development**
 * **Role:** Data Science Intern
 * **What I did:** Worked on an employee emotion analysis system.
 * **Key Win:** Got hands-on experience connecting Computer Vision models to a real backend.
