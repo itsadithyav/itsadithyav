@@ -84,7 +84,3 @@
 * 📚 **Writing:** I've co-authored research papers on **Conversational AI**.
 
 <br />
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=itsadithyav&show_icons=true&theme=graywhite&hide_border=true" alt="Stats" />
-</div>
